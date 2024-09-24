@@ -1,4 +1,4 @@
-# 🌍 Exploratory Data Analysis (EDA) on World Population Dataset
+# 🌍 Exploratory Data Analysis (EDA) on World Population Dataset 👫
 
 ## 📋 Overview
 
@@ -6,8 +6,7 @@ This project explores world population data through an in-depth exploratory data
 
 ## 📂 Project Structure
 
-- **`world_population_analysis.ipynb`**: The main notebook that contains the entire EDA process, including data cleaning, visualization, and insights.
-- **`data/`**: Folder where world population datasets should be placed (datasets are not included in the repository but can be downloaded separately).
+- **`world_population_analysis.ipynb`**: The main notebook that contains the entire EDA process, including data cleaning, visualization, and insights
 
 ## 🎯 Objectives
 
