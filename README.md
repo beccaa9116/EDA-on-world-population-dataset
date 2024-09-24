@@ -17,6 +17,7 @@ This project explores world population data through an in-depth exploratory data
 
 ## 📊 Data Sources
 
+https://www.kaggle.com/code/rebekaborsikova/eda-on-world-population-dataset
 The project uses publicly available datasets on world population. These datasets include detailed information on population growth, country-specific data, population density, and more.
 
 ## 🔑 Key Features of the Notebook
@@ -48,4 +49,3 @@ The project uses publicly available datasets on world population. These datasets
 - **NumPy**: For numerical computations.
 - **Jupyter Notebook**: Used for documenting and running the analysis.
   
-https://www.kaggle.com/code/rebekaborsikova/eda-on-world-population-dataset
